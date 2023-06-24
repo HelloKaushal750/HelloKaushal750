@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hellokaushal750&label=Profile%20views&color=0e75b6&style=flat" alt="hellokaushal750" /> </p>
 
-- 👨‍💻 All of my projects are available at [https://hellokaushal750.github.io/](https://hellokaushal750.github.io)
+- 👨‍💻 All of my projects are available at [https://hellokaushal750.github.io/](https://hellokaushal750.github.io/)
 
 - 📫 How to reach me **kaushalv079@gmail.com**
 
@@ -26,7 +26,7 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hellokaushal750&show_icons=true&theme=tokyonight" alt="hellokaushal750" /></p>
 <br />
 <br />
-<h3><img align="center" src="https://icons.iconarchive.com/icons/treetog/junior/256/earth-icon.png" alt="kaushalvish" height="30" width="30" /><a href="https://hellokaushal750.github.io" alt="portfolio" target="_blank">&nbsp;&nbsp;|&nbsp;&nbsp;Portfolio</a></h3>
+<h3><img align="center" src="https://icons.iconarchive.com/icons/treetog/junior/256/earth-icon.png" alt="kaushalvish" height="30" width="30" /><a href="[https://hellokaushal750.github.io](https://hellokaushal750.github.io/)" alt="portfolio" target="_blank">&nbsp;&nbsp;|&nbsp;&nbsp;Portfolio</a></h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
