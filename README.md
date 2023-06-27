@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Kaushal Vishwakarma</h1>
-# 💫 About Me:
+💫 About Me:
 Passionate MERN Full Stack Developer. Expert in MongoDB, Express.js, React, and Node.js. Skilled in frontend and backend development, creating robust and scalable web applications. Committed to delivering exceptional user experiences through innovative solutions. Seeking new opportunities to contribute and enhance skills.
 
 
