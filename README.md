@@ -6,7 +6,7 @@ Passionate MERN Full Stack Developer. Expert in MongoDB, Express.js, React, and 
 
 ## 🔭 Projects
 - [Flipkart : ](https://flipkart-kappa.vercel.app/) Flipkart, 'India ka Fashion Capital', is your one-stop fashion destination for anything and everything you need to look good.
-- [Alcazar Travel Agency : ](https://alcazar.vercel.app/) It is a vacation booking website, that provides travel
+- [Alcazar Travel Agency : ](https://alcazartravels.vercel.app/) It is a vacation booking website, that provides travel
 trips, flights and accommodation.
 - [Sephora : ](https://creative-dieffenbachia-eb1778.netlify.app/) It is an e-commerce website, that deals with makeup related accessories.
 - [Netmeds : ](https://647ee6478817b47a9778047e--celebrated-valkyrie-56babf.netlify.app/) Netmeds.com is one of India's most trusted pharmacies, dispensing quality medicines at reasonable prices to over 7 million happy customers – PAN India
