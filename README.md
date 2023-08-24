@@ -1,4 +1,4 @@
-![logo](https://github.com/HelloKaushal750/HelloKaushal750/blob/main/Kaushal%20(Github%20banner).png)
+![logo](https://github.com/HelloKaushal750/HelloKaushal750/blob/main/Black%20Minimal%20Motivation%20Quote%20LinkedIn%20Banner.png)
 <h1 align="center">Hi 👋, I'm Kaushal Vishwakarma</h1>
 
 ## 💫 About Me
